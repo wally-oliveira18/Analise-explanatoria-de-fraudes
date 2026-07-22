@@ -8,32 +8,27 @@ Todas as consultas foram desenvolvidas utilizando apenas comandos fundamentais d
 
 ## Objetivos
 
-- Explorar a distribuição das transações.
-- Analisar o comportamento das fraudes.
-- Identificar categorias com maior risco.
-- Comparar transações nacionais e internacionais.
-- Investigar padrões relacionados ao dispositivo, autenticação e canal de compra.
+Este projeto tem como objetivo explorar a distribuição das transações e analisar o comportamento de fraudes, a fim de determinar os comportamentos de riscos em transações nacionais e internanais, bem como os padõres relacionados aos dispositivos e canais de compra em fraudes de cartões. 
 
 - ## Tecnologias
 
-- SQL
-- MySQL Workbench
-- Git
-- GitHub
+Para o desenvolvimento do projeto foi utlizado a ferramenta MySQL Workbench. 
+
 
 - ## Comandos utilizados
 
-- SELECT
-- WHERE
-- GROUP BY
-- ORDER BY
-- HAVING
-- COUNT()
-- AVG()
-- SUM()
-- MAX()
-- MIN()
-- DISTINCT
-- AND
-- OR
-- IN
+Para as análises foram utilizadas os seguintes comando em SQL: 
+    - SELECT
+    - WHERE
+    - GROUP BY
+    - ORDER BY
+    - HAVING
+    - COUNT()
+    - AVG()
+    - SUM()
+    - MAX()
+    - MIN()
+    - DISTINCT
+    - AND
+    - OR
+    - IN
