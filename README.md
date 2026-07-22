@@ -1,4 +1,4 @@
-# Analise explanatoria de fraudes de cartões 
+# Análise explanatória de fraudes de cartões 
 
 Este projeto apresenta uma Análise Exploratória de Dados (EDA) utilizando MySQL em um conjunto de transações de cartões de crédito.
 
